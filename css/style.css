@@ -1,0 +1,22 @@
+.bg-custom{
+  background-image: url('../image/ecommerce.jpg');
+
+  background-position: center;
+
+}
+.bg-color1 {
+  background-color:  #85e7b2;
+}
+.bg-color{
+  background-color: #bcf2e3;
+}
+.text-color{
+  color: #f5e49c;
+}
+.text-color1{
+  color: #85e7b2;
+}
+input {
+  max-width: 800px;
+  min-width: 200px;
+}
